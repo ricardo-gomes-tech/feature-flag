@@ -2,7 +2,7 @@
 
 > **Open-source Feature Flag Service - Alternative to LaunchDarkly**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/jobnow/feature-flag)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/ricardo-gomes-tech/feature-flag)
 [![Node](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-5.3.3-blue.svg)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -12,7 +12,7 @@
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/jobnow/feature-flag.git
+git clone https://github.com/ricardo-gomes-tech/feature-flag.git
 cd feature-flag
 pnpm install
 docker compose up -d
