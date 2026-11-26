@@ -101,7 +101,7 @@
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/jobnow/feature-flag.git
+git clone https://github.com/ricardo-gomes-tech/feature-flag.git
 cd feature-flag
 ```
 
@@ -465,7 +465,7 @@ Este projeto está sob a licença MIT. Veja [LICENSE](./LICENSE) para mais detal
 
 **Ricardo Gomes**
 
-- 💻 GitHub: [@jobnow](https://github.com/jobnow)
+- 💻 GitHub: [@ricardo-gomes-tech](https://github.com/ricardo-gomes-tech)
 - 💼 LinkedIn: [Ricardo Gomes](https://www.linkedin.com/in/ricardogomes-tech/)
 - 📧 Email: ricardogomesweb@gmail.com
 
