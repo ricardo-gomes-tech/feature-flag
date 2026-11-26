@@ -101,8 +101,8 @@
 1. **Clone o repositório**
 
 ```bash
-git clone <repo-url>
-cd feature-flag-service
+git clone https://github.com/jobnow/feature-flag.git
+cd feature-flag
 ```
 
 2. **Configure as variáveis de ambiente**
@@ -465,9 +465,9 @@ Este projeto está sob a licença MIT. Veja [LICENSE](./LICENSE) para mais detal
 
 **Ricardo Gomes**
 
-- 💻 GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- 💼 LinkedIn: [Ricardo Gomes](https://linkedin.com/in/seu-perfil)
-- 📧 Email: seu-email@exemplo.com
+- 💻 GitHub: [@jobnow](https://github.com/jobnow)
+- 💼 LinkedIn: [Ricardo Gomes](https://www.linkedin.com/in/ricardogomes-tech/)
+- 📧 Email: ricardogomesweb@gmail.com
 
 **💡 Dica**: Se este projeto te ajudou, considere:
 - ⭐ Dar uma estrela no GitHub
